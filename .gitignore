@@ -130,3 +130,9 @@ dmypy.json
 
 # VSCode
 settings.json
+
+# Other folders
+media
+
+# Pickle files
+.pkl
