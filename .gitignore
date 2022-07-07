@@ -135,4 +135,4 @@ settings.json
 media
 
 # Pickle files
-.pkl
+*.pkl
